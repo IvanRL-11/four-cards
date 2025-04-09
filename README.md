@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/IvanRL-11/four-cards)
+- Live Site URL: [Live site URL here](https://ivanrl-11.github.io/four-cards/)
 
 ## My process
 
@@ -52,7 +52,7 @@ Me gustaría seguir con el desarrollo usando las propiedades dd flexbox y grid, 
 
 ### Useful resources
 
-- [Example resource 1](https://cssgridgarden.com/#es) - Este juego recomendado por Frontend Mentor me ayudo a entender mejor el uso de grid
+- [Grid Garden](https://cssgridgarden.com/#es) - Este juego recomendado por Frontend Mentor me ayudo a entender mejor el uso de grid
 
 ## Author
 
